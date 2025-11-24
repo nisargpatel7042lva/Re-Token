@@ -1,0 +1,5 @@
+{
+  "name": "Re-Token",
+  "description": "A smart DeFi portfolio manager that automatically exits lending positions when AI-analyzed risk scores drop below user-defined thresholds.",
+  "requestFramePermissions": []
+}
